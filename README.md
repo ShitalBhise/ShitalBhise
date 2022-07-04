@@ -7,6 +7,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shitalbhise&show_icons=true&locale=en&layout=compact" alt="shitalbhise" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shitalbhise&show_icons=true&locale=en" alt="shitalbhise" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shitalbhise&" alt="shitalbhise" /></p>
